@@ -10,3 +10,4 @@ https://github.com/Supremacy-ysyyrps/Computer-Arch<br>
 ```Tomasulo算法与记分牌调度算法研究_王磊.pdf```<br>
 实验代码：<br>
 ```21307346-冯一鸣-实验代码.py```<br>
+样例输入见代码底部
